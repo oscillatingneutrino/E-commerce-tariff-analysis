@@ -16,7 +16,8 @@
 - [References](#References)
 
 ## Executive Summary
-TEMU must currently face the effects of tariffs
+
+The effects of tariffs have had several effects TEMU's profits: gross margin remains unaffected, and saw an increment during the peak of tariffs, although revenue decreased. Customers were observed to spend less and access the site less. Logistics have largely remained unaffected, but the price of parcels was made to be comparable to that of non-foreign companies. As a result of insufficient data, predictive modeling would only be inaccurate. Despite this, metrics negatively affected by tariffs saw a rise when tariffs were relaxed.
 
 
 ## Project Background
@@ -38,7 +39,7 @@ May 30, 2025
 	Trump states that China has not eased their rare-earth export restrictions, stating that the previous truce was broken
 
 June 11, 2025
-	Trump proposes 55% tariffs on Chinese goods (10% universal _ extras). China agrees to supply rare earths and ease export licensing. US relaxes restrictions on Chinese students and some exchanges
+	Trump proposes 55% tariffs on Chinese goods (10% universal on extras). China agrees to supply rare earths and ease export licensing. US relaxes restrictions on Chinese students and some exchanges
 
 June 27, 2025
 	China has the option to approve export applications for controlled items. The US would also lift several restrictive measures.
