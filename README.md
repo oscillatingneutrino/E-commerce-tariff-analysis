@@ -94,15 +94,15 @@ A more refined analysis of the search behavior shows a continuous downward trend
 
 ## Recommendations
 
-1. Rebuild Customer Trust
+1. **Rebuild Customer Trust**
 
 Being a foreign site, TEMU must not only face tariffs, but also a growing sense of distrust amongst individuals worried about the security of their data and personal information. Their ability to give foreign clients trust in their system is largely diminished by the amount of people who will relate their negative experiences on social media and by skepticism from other individuals; stories that are likely to gain more and more traction amongst social media. This issue has always existed, but customers chose to ignore the risks to their personal information as a sort of compromise to the low prices of attractive items sponsored through social media sites like TikTok. Since tariffs have reduced this aspect/incentive, TEMU must instead choose to continue to reach out to content creators and influencers, and buy advertisement spots across all forms of media in order to retain brand visibility; once tariffs begin to relax, TEMU can expect customers to go back to buying off of their site.
  
-2. Reinforce Domestic Presence
+2. **Reinforce Domestic Presence**
 
 The issues with outreach are not limited to a foreign audience, however; TEMU must also compete with other sites, such as JD.com, Alibaba, and Douyin, the latter of which has the advantage of integrating itself with local forms of social media. Thus, it is recommended to invest in appealing to their non-foreign audience and seek to popularize themselves further through their country of origin. Successful amongst the Chinese audiences is live-streams, which provide viewers with the possibility of engaging with an individual using the site to purchase goods. It would then follow that a viewer would be more inclined to use TEMU upon seeing a trusted figure using the site.
 
-3. Continue the Current Financial Strategy
+3. **Continue the Current Financial Strategy**
 
 Further comments on TEMU's practices cannot be made; their current model of connecting consumers directly to manufacturers is in large part the reason for their high degree of success; changing this model by offshoring manufacturing to other countries with lower tariff rates is non-sensical and would add unneeded layers to communication and costs, when production of items on TEMU is already low enough. The only recommendation one can make outside of marketing is to maintain a portion of its assets as liquid in the case of further changes in international economic policy, as doing so allows a company to maintain the funds required to keep functioning.
 
