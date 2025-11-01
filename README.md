@@ -5,11 +5,9 @@
 - [Project Background](#Project-Background)
 - [Tariffs Affecting E-Commerce From China](#Tariffs-Affecting-E-Commerce-From-China)
 - [Growth Metrics](#Growth-Metrics)
-
 - [Profitability Ratios](#Profitability-Ratios)
 - [Liquidity Metrics](#Liquidity-Metrics)
 - [Cash Flow Metric](#Cash-Flow-Metric)
-
 - [Trend in Public Interest](#Trend-In-Public-Interest)
 - [Recommendations](#Recommendations)
 - [Clarifications](#Clarifications)
@@ -17,7 +15,7 @@
 
 ## Executive Summary
 
-The effects of tariffs have had several effects TEMU's profits: gross margin remains unaffected, and saw an increment during the peak of tariffs, although revenue decreased. Customers were observed to spend less and access the site less. Logistics have largely remained unaffected, but the price of parcels was made to be comparable to that of non-foreign companies. As a result of insufficient data, predictive modeling would only be inaccurate. Despite this, metrics negatively affected by tariffs saw a rise when tariffs were relaxed.
+The effects of tariffs have had several effects TEMU's profits: gross margin remains unaffected, and saw an increment during the peak of tariffs, although revenue decreased. Customers were observed to spend less and access the site less. Logistics have largely remained unaffected, but the price of parcels was made to be comparable to that of non-foreign companies. As a result of insufficient data, predictive modeling would only be inaccurate. Despite this, metrics negatively affected by tariffs saw a rise when tariffs were relaxed. Furthermore, increments in profitability can occur with further advancements in marketability and outreach to local customers.
 
 
 ## Project Background
