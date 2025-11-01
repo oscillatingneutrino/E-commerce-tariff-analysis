@@ -8,7 +8,7 @@
 
 - [Profitability Ratios](#Profitability-Ratios)
 - [Liquidity Metrics](#Liquidity-Metrics)
-- [Cash Flow Metrics](#Cash-Flow-Metrics)
+- [Cash Flow Metric](#Cash-Flow-Metric)
 
 - [Trend in Public Interest](#Trend-In-Public-Interest)
 - [Recommendations](#Recommendations)
