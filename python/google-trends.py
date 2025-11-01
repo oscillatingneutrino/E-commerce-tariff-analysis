@@ -7,7 +7,7 @@ from matplotlib import pylab as plb
 # You can use/see these numbers by switching format, from date format to the number format
 # The dates for tariffs can then be easily input and worked into a dataset, since they can be changed into a number without much fancy code
 # This requires changing the time of your data into the number format in Excel or Google Sheets
-# This makes the process of plotting specific dates - especially when you are given weekly data- easier  in my opinion.
+# This makes the process of plotting specific dates - especially when you are given weekly data- easier...in my opinion.
 # In the following code, the above was done, but the numbers corresponding to certain dates were visually changed back to dates
 
 
